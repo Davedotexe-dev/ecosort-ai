@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # EcoSort AI
 ### AI-Powered Waste Intelligence for a Sustainable Future
 
@@ -139,3 +140,7 @@ Open your browser to: `http://localhost:8501`
 ---
 
 **Developed for the 1M1B AI for Sustainability Internship | Advancing UN SDG 12**
+=======
+# ecosort-ai
+Internship project for 1m1b internship 
+>>>>>>> cb738a117bef695257d315773131c839c2d24320
