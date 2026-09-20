@@ -144,3 +144,14 @@ Open your browser to: `http://localhost:8501`
 # ecosort-ai
 Internship project for 1m1b internship 
 >>>>>>> cb738a117bef695257d315773131c839c2d24320
+
+
+
+## 🚀 Quick Start (Windows 1-Click Launch)
+
+1. Click the green **Code** button on GitHub and select **Download ZIP**.
+2. Extract the ZIP folder to your PC.
+3. Open the folder and double-click **`run.bat`**.
+   * It will automatically set up the environment and launch EcoSort AI in your browser.
+4. If prompted, open the created `.env` file and enter your free Gemini API Key.
+
